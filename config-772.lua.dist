@@ -13,7 +13,7 @@ stairJumpExhaustion = 2000
 experienceByKillingPlayers = false
 expFromPlayersLevelRange = 75
 
--- Connection Config
+-- Connection Config//
 -- NOTE: maxPlayers set to 0 means no limit
 ip = "127.0.0.1"
 bindOnlyGlobalAddress = false
